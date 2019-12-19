@@ -1,0 +1,73 @@
+{
+    "name": "FedEx",
+    "description": "Shipping - Logistics Management - Supply Chain Management from FedEx Corporation: FedEx.com offers a complete suite of online services for shipment preparation, package tracking, shipment rates and tools tailored to the needs of international shippers ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/199-fedex.jpg",
+    "tags": [
+        "api provider",
+        "freight",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fedex\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FedEx",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/199-fedex.jpg",
+            "humanURL": "http:\/\/www.fedex.com\/us\/developer\/index.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fedex-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.fedex.com\/ws\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fedex"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fedex"
+        },
+        {
+            "type": "Email",
+            "url": "privacypolicy@corp.ds.fedex.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@fedex.com"
+        },
+        {
+            "type": "Email",
+            "url": "laccroconosur@fedex.com"
+        },
+        {
+            "type": "Email",
+            "url": "cobranzas@mail.fedex.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/fedex"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fedex.com\/us\/developer\/index.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fedex"
+        }
+    ]
+}
